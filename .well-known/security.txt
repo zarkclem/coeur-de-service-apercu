@@ -1,0 +1,4 @@
+Contact: mailto:À DÉFINIR
+Expires: 2027-11-01T17:17:16.025Z
+Preferred-Languages: fr, en
+Canonical: https://zarkclem.github.io/.well-known/security.txt
